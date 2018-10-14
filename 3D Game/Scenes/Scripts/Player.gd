@@ -1,5 +1,7 @@
 extends KinematicBody
 
+#This a testing comment
+
 var speed = 600
 var direction = Vector3()
 var gravity = -9.8
